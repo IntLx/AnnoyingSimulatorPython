@@ -1,0 +1,6 @@
+make a folder and paste "virus.py" and press on the file location thingy on top and type cmd and paste this 
+"python virus.py notepad calc paint chrome -n 50 -d 0.5 -r" <==cmd script
+and the -n is number of times it should run for instance if i put -n 20 it will pop only 20 times after that it will stop
+the -d is delay like for instance after one opens after 5 seconds and then after 5 seconds other one will pop
+and it is set to 0.5 coz after 0.5 sec it will pop and annoy so  and -r" is random if you dont want random just remove -r but this 
+thing  " at last should be there
